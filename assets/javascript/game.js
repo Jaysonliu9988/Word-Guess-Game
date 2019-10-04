@@ -51,34 +51,34 @@ function aud() {
         document.getElementById("image").src = "./assets/images/orange1.jpeg";
     }
 
-    // pear image ERR!!
+    // pear image 
     else if (randomWord === words[2]) {
         fruit.play();
         document.getElementById("image").src = "./assets/images/pear2.jpeg";
     }
 
-    // grape image ERR!!
+    // grape image 
     else if (randomWord === words[3]) {
         fruit.play();
-        document.getElementById("image").src = "./assets/images/grapes3.jpeg";
+        document.getElementById("image").src = "./assets/images/grapes3.jpg";
     }
 
-    // watermelon image ERR!!
+    // watermelon image 
     else if (randomWord === words[4]) {
         fruit.play();
-        document.getElementById("image").src = "./assets/images/watermelon4.jpeg";
+        document.getElementById("image").src = "./assets/images/watermelon4.jpg";
     }
 
-    // blueberry image ERR!!
+    // blueberry image 
     else if (randomWord === words[5]) {
         fruit.play();
-        document.getElementById("image").src = "./assets/images/blueberry5.jpeg";
+        document.getElementById("image").src = "./assets/images/blueberry5.jpg";
     }
 
-    //kiwi image ERR!!
+    //kiwi image 
     else if (randomWord === words[6]) {
         fruit.play();
-        document.getElementById("image").src = "./assets/images/kiwi6.jpeg";
+        document.getElementById("image").src = "./assets/images/kiwi6.jpg";
     }
 
     // mango image
@@ -87,10 +87,10 @@ function aud() {
         document.getElementById("image").src = "./assets/images/mango7.jpeg";
     }
 
-    // pomegranate image ERR!!
+    // pomegranate image 
     else if (randomWord === words[8]) {
         fruit.play();
-        document.getElementById("image").src = "./assets/images/pomegranate8.jpeg";
+        document.getElementById("image").src = "./assets/images/pomegranate8.jpg";
     }
 
     // coconut image
